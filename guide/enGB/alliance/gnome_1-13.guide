@@ -1,0 +1,2043 @@
+{
+  "name": "WotLK Guide - Alliance - Gnome - (1 - 13)",
+  "locale": "enGB",
+  "faction": "Alliance",
+  "race": "Gnome",
+  "startHearthstone": 77,
+  "next": "WotLK Guide - Alliance - (13 - 20)",
+  "stepList": [
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 132,
+        "x": 30,
+        "y": 72
+      },
+      "questID": 179
+    },
+    {
+      "type": "Do Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 132,
+        "x": 30,
+        "y": 72
+      },
+      "questID": 179,
+      "description": "Loot 8 [item:750] from [npc:705]"
+    },
+    {
+      "type": "Level Up",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 132,
+        "x": 30,
+        "y": 72
+      },
+      "description": "2"
+    },
+    {
+      "type": "Turn in Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 132,
+        "x": 30,
+        "y": 72
+      },
+      "questID": 179
+    },
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 132,
+        "x": 30,
+        "y": 72
+      },
+      "questID": 233
+    },
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 132,
+        "x": 30,
+        "y": 72
+      },
+      "questID": 3114,
+      "onlyFor": [
+        {
+          "race": "Gnome",
+          "class": "Mage"
+        }
+      ]
+    },
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 132,
+        "x": 30,
+        "y": 72
+      },
+      "questID": 3112,
+      "onlyFor": [
+        {
+          "race": "Gnome",
+          "class": "Warrior"
+        }
+      ]
+    },
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 132,
+        "x": 30,
+        "y": 72
+      },
+      "questID": 3115,
+      "onlyFor": [
+        {
+          "race": "Gnome",
+          "class": "Warlock"
+        }
+      ]
+    },
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 132,
+        "x": 30,
+        "y": 72
+      },
+      "questID": 3113,
+      "onlyFor": [
+        {
+          "race": "Gnome",
+          "class": "Rogue"
+        }
+      ]
+    },
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 132,
+        "x": 30,
+        "y": 72
+      },
+      "questID": 170
+    },
+    {
+      "type": "Do Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 132,
+        "x": 30,
+        "y": 72
+      },
+      "questID": 170,
+      "description": "Kill 6 [npc:707] and 6 [npc:724]"
+    },
+    {
+      "type": "Turn in Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 132,
+        "x": 30,
+        "y": 72
+      },
+      "questID": 170
+    },
+    {
+      "type": "Level Up",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 132,
+        "x": 30,
+        "y": 72
+      },
+      "description": "3"
+    },
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 77,
+        "x": 28.6,
+        "y": 68
+      },
+      "questID": 3361
+    },
+    {
+      "type": "Turn in Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 77,
+        "x": 28.6,
+        "y": 68
+      },
+      "questID": 3114,
+      "onlyFor": [
+        {
+          "race": "Gnome",
+          "class": "Mage"
+        }
+      ]
+    },
+    {
+      "type": "Turn in Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 77,
+        "x": 28.6,
+        "y": 68
+      },
+      "questID": 3112,
+      "onlyFor": [
+        {
+          "race": "Gnome",
+          "class": "Warrior"
+        }
+      ]
+    },
+    {
+      "type": "Turn in Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 77,
+        "x": 28.6,
+        "y": 68
+      },
+      "questID": 3115,
+      "onlyFor": [
+        {
+          "race": "Gnome",
+          "class": "Warlock"
+        }
+      ]
+    },
+    {
+      "type": "Turn in Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 77,
+        "x": 28.6,
+        "y": 68
+      },
+      "questID": 3113,
+      "onlyFor": [
+        {
+          "race": "Gnome",
+          "class": "Rogue"
+        }
+      ]
+    },
+    {
+      "type": "Turn in Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 77,
+        "x": 28.6,
+        "y": 68
+      },
+      "questID": 233
+    },
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 77,
+        "x": 28.6,
+        "y": 68
+      },
+      "questID": 234
+    },
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 77,
+        "x": 28.6,
+        "y": 68
+      },
+      "questID": 183
+    },
+    {
+      "type": "Do Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 132,
+        "x": 24,
+        "y": 70.5
+      },
+      "questID": 183,
+      "description": "Kill 12 [npc:708]"
+    },
+    {
+      "type": "Turn in Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 132,
+        "x": 24,
+        "y": 70.5
+      },
+      "questID": 183
+    },
+    {
+      "type": "Turn in Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 132,
+        "x": 25,
+        "y": 75.5
+      },
+      "questID": 234
+    },
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 132,
+        "x": 25,
+        "y": 75.5
+      },
+      "questID": 182
+    },
+    {
+      "type": "Do Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 132,
+        "x": 27,
+        "y": 80
+      },
+      "questID": 3361,
+      "description": "Collect [item:16314] from [object:178085]"
+    },
+    {
+      "type": "Do Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 132,
+        "x": 27,
+        "y": 80
+      },
+      "questID": 182,
+      "description": "Kill 10 [npc:706]"
+    },
+    {
+      "type": "Level Up",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 132,
+        "x": 27,
+        "y": 80
+      },
+      "description": "4"
+    },
+    {
+      "type": "Turn in Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 132,
+        "x": 25,
+        "y": 75.5
+      },
+      "questID": 182
+    },
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 132,
+        "x": 25,
+        "y": 75.5
+      },
+      "questID": 218
+    },
+    {
+      "type": "Do Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 132,
+        "x": 27,
+        "y": 80
+      },
+      "questID": 218,
+      "description": "Loot [item:2004] from [npc:808]"
+    },
+    {
+      "type": "Do Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 132,
+        "x": 23,
+        "y": 80
+      },
+      "questID": 3361,
+      "description": "Collect [item:16313] from [object:178084]"
+    },
+    {
+      "type": "Do Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 132,
+        "x": 21,
+        "y": 76
+      },
+      "questID": 3361,
+      "description": "Collect [item:10438] from [object:148499]"
+    },
+    {
+      "type": "Turn in Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 132,
+        "x": 25,
+        "y": 75.5
+      },
+      "questID": 218
+    },
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 132,
+        "x": 25,
+        "y": 75.5
+      },
+      "questID": 282
+    },
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 132,
+        "x": 25,
+        "y": 75.5
+      },
+      "questID": 3364
+    },
+    {
+      "type": "Turn in Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 77,
+        "x": 28.6,
+        "y": 68
+      },
+      "questID": 3361
+    },
+    {
+      "type": "Turn in Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 77,
+        "x": 28.6,
+        "y": 68
+      },
+      "questID": 3364
+    },
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 77,
+        "x": 28.6,
+        "y": 68
+      },
+      "questID": 3365
+    },
+    {
+      "type": "Level Up",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 77,
+        "x": 28.6,
+        "y": 68
+      },
+      "description": "5"
+    },
+    {
+      "type": "Turn in Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 132,
+        "x": 25,
+        "y": 75.5
+      },
+      "questID": 3365
+    },
+    {
+      "type": "Turn in Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 800,
+        "x": 34,
+        "y": 71
+      },
+      "questID": 282
+    },
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 800,
+        "x": 34,
+        "y": 71
+      },
+      "questID": 420
+    },
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 800,
+        "x": 34,
+        "y": 71
+      },
+      "questID": 2160
+    },
+    {
+      "type": "Turn in Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 131,
+        "x": 46.3,
+        "y": 52.1
+      },
+      "questID": 420
+    },
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 131,
+        "x": 46.3,
+        "y": 52.1
+      },
+      "questID": 384
+    },
+    {
+      "type": "Turn in Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 131,
+        "x": 46.3,
+        "y": 52.1
+      },
+      "questID": 2160
+    },
+    {
+      "type": "Do Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 131,
+        "x": 46.5,
+        "y": 52
+      },
+      "questID": 384,
+      "description": "Buy 1 [item:2894]"
+    },
+    {
+      "type": "Hearthstone",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 131,
+        "x": 46.5,
+        "y": 52
+      },
+      "description": "Set Hearthstone to [zone:131]",
+      "setHearthstone": 131
+    },
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 189,
+        "x": 50.5,
+        "y": 50
+      },
+      "questID": 5541
+    },
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 131,
+        "x": 46.5,
+        "y": 52
+      },
+      "questID": 400
+    },
+    {
+      "type": "Turn in Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 189,
+        "x": 50.5,
+        "y": 50
+      },
+      "questID": 400
+    },
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 189,
+        "x": 50.5,
+        "y": 50
+      },
+      "questID": 313
+    },
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 189,
+        "x": 50.5,
+        "y": 50
+      },
+      "questID": 317
+    },
+    {
+      "type": "Do Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 189,
+        "x": 50.5,
+        "y": 50
+      },
+      "questID": 317,
+      "description": "Loot 4 [item:769] from [npc:1125] and [npc:1126] and 2 [item:6952] from [npc:1128] and [npc:1196]"
+    },
+    {
+      "type": "Do Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 189,
+        "x": 50.5,
+        "y": 50
+      },
+      "questID": 384,
+      "description": "Loot 6 [item:2886] from [npc:1125] and [npc:1126]"
+    },
+    {
+      "type": "Level Up",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 189,
+        "x": 50.5,
+        "y": 50
+      },
+      "description": "6"
+    },
+    {
+      "type": "Do Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 136,
+        "x": 43.5,
+        "y": 55.5
+      },
+      "questID": 5541,
+      "description": "Collect [item:13850] from [object:176785]"
+    },
+    {
+      "type": "Do Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 136,
+        "x": 43.5,
+        "y": 55.5
+      },
+      "questID": 313,
+      "description": "Loot 8 [item:2671] from [npc:1134] and [npc:1135]"
+    },
+    {
+      "type": "Turn in Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "x": 41,
+        "y": 65
+      },
+      "questID": 5541
+    },
+    {
+      "type": "Turn in Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 131,
+        "x": 46.5,
+        "y": 52
+      },
+      "questID": 384
+    },
+    {
+      "type": "Turn in Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 189,
+        "x": 50.5,
+        "y": 50
+      },
+      "questID": 313
+    },
+    {
+      "type": "Turn in Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 189,
+        "x": 50.5,
+        "y": 50
+      },
+      "questID": 317
+    },
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 189,
+        "x": 50.5,
+        "y": 50
+      },
+      "questID": 318
+    },
+    {
+      "type": "Level Up",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 189,
+        "x": 50.5,
+        "y": 50
+      },
+      "description": "7"
+    },
+    {
+      "type": "Turn in Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 137,
+        "x": 30,
+        "y": 45.5
+      },
+      "questID": 318
+    },
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 137,
+        "x": 30,
+        "y": 45.5
+      },
+      "questID": 319
+    },
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 137,
+        "x": 30,
+        "y": 45.5
+      },
+      "questID": 315
+    },
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 137,
+        "x": 30,
+        "y": 45.5
+      },
+      "questID": 310
+    },
+    {
+      "type": "Do Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 137,
+        "x": 30,
+        "y": 45.5
+      },
+      "questID": 319,
+      "description": "Kill 6 [npc:1196], 8 [npc:1127] and 8 [npc:1201]"
+    },
+    {
+      "type": "Turn in Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 137,
+        "x": 30,
+        "y": 45.5
+      },
+      "questID": 319
+    },
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 137,
+        "x": 30,
+        "y": 45.5
+      },
+      "questID": 320
+    },
+    {
+      "type": "Do Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 802,
+        "x": 38,
+        "y": 43
+      },
+      "questID": 315,
+      "description": "Loot 6 [item:2676] from [npc:1397] and/or collect it from [object:276]"
+    },
+    {
+      "type": "Turn in Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 189,
+        "x": 50.5,
+        "y": 50
+      },
+      "questID": 320
+    },
+    {
+      "type": "Level Up",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 189,
+        "x": 50.5,
+        "y": 50
+      },
+      "description": "8"
+    },
+    {
+      "type": "Do Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 131,
+        "x": 46.5,
+        "y": 52
+      },
+      "questID": 310,
+      "description": "Buy 1 [item:2686], give [npc:1373] [item:2686] and then click [object:270]"
+    },
+    {
+      "type": "Turn in Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 131,
+        "x": 46.5,
+        "y": 52
+      },
+      "questID": 310
+    },
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 131,
+        "x": 46.5,
+        "y": 52
+      },
+      "questID": 311
+    },
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 131,
+        "x": 46.5,
+        "y": 52
+      },
+      "questID": 287
+    },
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 131,
+        "x": 46.5,
+        "y": 52
+      },
+      "questID": 412
+    },
+    {
+      "type": "Turn in Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 137,
+        "x": 30,
+        "y": 45.5
+      },
+      "questID": 315
+    },
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 137,
+        "x": 30,
+        "y": 45.5
+      },
+      "questID": 413
+    },
+    {
+      "type": "Turn in Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 137,
+        "x": 30,
+        "y": 45.5
+      },
+      "questID": 311
+    },
+    {
+      "type": "Do Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 135,
+        "x": 25,
+        "y": 51
+      },
+      "questID": 287,
+      "description": "Kill 5 [npc:1123] and explore (21.2, 52.3)"
+    },
+    {
+      "type": "Do Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 133,
+        "x": 26,
+        "y": 43
+      },
+      "questID": 412,
+      "description": "Loot 8 [item:3083] and 8 [item:3084] from [npc:1211]"
+    },
+    {
+      "type": "Level Up",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 133,
+        "x": 26,
+        "y": 43
+      },
+      "description": "9"
+    },
+    {
+      "type": "Hearthstone",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 133,
+        "x": 26,
+        "y": 43
+      },
+      "description": "Hearth to [zone:131]"
+    },
+    {
+      "type": "Turn in Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 131,
+        "x": 46.5,
+        "y": 52
+      },
+      "questID": 412
+    },
+    {
+      "type": "Turn in Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 131,
+        "x": 46.5,
+        "y": 52
+      },
+      "questID": 287
+    },
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 131,
+        "x": 46.5,
+        "y": 52
+      },
+      "questID": 291
+    },
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 803,
+        "x": 63,
+        "y": 50
+      },
+      "questID": 314
+    },
+    {
+      "type": "Do Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 803,
+        "x": 63,
+        "y": 50
+      },
+      "questID": 314,
+      "description": "Loot [item:3627] from [npc:1388]"
+    },
+    {
+      "type": "Turn in Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 803,
+        "x": 63,
+        "y": 50
+      },
+      "questID": 314
+    },
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 134,
+        "x": 68.5,
+        "y": 56.5
+      },
+      "questID": 433
+    },
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 134,
+        "x": 68.5,
+        "y": 56.5
+      },
+      "questID": 432
+    },
+    {
+      "type": "Do Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 134,
+        "x": 68.5,
+        "y": 56.5
+      },
+      "questID": 432,
+      "description": "Kill 6 [npc:1115]"
+    },
+    {
+      "type": "Do Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 134,
+        "x": 68.5,
+        "y": 56.5
+      },
+      "questID": 433,
+      "description": "Kill 10 [npc:1117]"
+    },
+    {
+      "type": "Turn in Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 134,
+        "x": 68.5,
+        "y": 56.5
+      },
+      "questID": 433
+    },
+    {
+      "type": "Turn in Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 134,
+        "x": 68.5,
+        "y": 56.5
+      },
+      "questID": 432
+    },
+    {
+      "type": "Level Up",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 134,
+        "x": 68.5,
+        "y": 56.5
+      },
+      "description": "10"
+    },
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 131,
+        "x": 46.5,
+        "y": 52
+      },
+      "questID": 1679,
+      "onlyFor": [
+        {
+          "race": "Gnome",
+          "class": "Warrior"
+        }
+      ]
+    },
+    {
+      "type": "Travel",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 809,
+        "x": 53.5,
+        "y": 35
+      },
+      "description": "Go to [zone:1537]",
+      "onlyFor": [
+        {
+          "race": "Gnome",
+          "class": "Warrior"
+        }
+      ]
+    },
+    {
+      "type": "Turn in Quest",
+      "coordinates": {
+        "zoneID": 1537,
+        "x": 70.5,
+        "y": 90.5
+      },
+      "questID": 1679,
+      "onlyFor": [
+        {
+          "race": "Gnome",
+          "class": "Warrior"
+        }
+      ]
+    },
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 1537,
+        "x": 70.5,
+        "y": 90.5
+      },
+      "questID": 1678,
+      "onlyFor": [
+        {
+          "race": "Gnome",
+          "class": "Warrior"
+        }
+      ]
+    },
+    {
+      "type": "Travel",
+      "coordinates": {
+        "zoneID": 1537,
+        "areaID": 809,
+        "x": 14.3,
+        "y": 86.5
+      },
+      "description": "Go to [zone:1]",
+      "onlyFor": [
+        {
+          "race": "Gnome",
+          "class": "Warrior"
+        }
+      ]
+    },
+    {
+      "type": "Do Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 135,
+        "x": 28,
+        "y": 58
+      },
+      "questID": 1678,
+      "description": "Loot [item:6799] from [npc:6113]",
+      "onlyFor": [
+        {
+          "race": "Gnome",
+          "class": "Warrior"
+        }
+      ]
+    },
+    {
+      "type": "Travel",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 809,
+        "x": 53.5,
+        "y": 35
+      },
+      "description": "Go to [zone:1537]",
+      "onlyFor": [
+        {
+          "race": "Gnome",
+          "class": "Warrior"
+        }
+      ]
+    },
+    {
+      "type": "Turn in Quest",
+      "coordinates": {
+        "zoneID": 1537,
+        "x": 70.5,
+        "y": 90.5
+      },
+      "questID": 1678,
+      "onlyFor": [
+        {
+          "race": "Gnome",
+          "class": "Warrior"
+        }
+      ]
+    },
+    {
+      "type": "Travel",
+      "coordinates": {
+        "zoneID": 1537,
+        "areaID": 809,
+        "x": 14.3,
+        "y": 86.5
+      },
+      "description": "Go to [zone:1]",
+      "onlyFor": [
+        {
+          "race": "Gnome",
+          "class": "Warrior"
+        }
+      ]
+    },
+    {
+      "type": "Turn in Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 806,
+        "x": 86.5,
+        "y": 51
+      },
+      "questID": 413
+    },
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 806,
+        "x": 86.5,
+        "y": 51
+      },
+      "questID": 414
+    },
+    {
+      "type": "Travel",
+      "coordinates": {
+        "zoneID": 1,
+        "areaID": 806,
+        "x": 86.5,
+        "y": 51
+      },
+      "description": "Go to [zone:38]"
+    },
+    {
+      "type": "Note",
+      "coordinates": {
+        "zoneID": 38,
+        "areaID": 144,
+        "x": 36,
+        "y": 46
+      },
+      "description": "Open [zone:144] flight path"
+    },
+    {
+      "type": "Travel",
+      "coordinates": {
+        "zoneID": 38,
+        "areaID": 144,
+        "x": 36,
+        "y": 46
+      },
+      "description": "Fly to [zone:1537]",
+      "onlyFor": [
+        {
+          "race": "Gnome",
+          "class": "Warlock"
+        }
+      ]
+    },
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 1537,
+        "x": 47.5,
+        "y": 9.5
+      },
+      "questID": 1715,
+      "onlyFor": [
+        {
+          "race": "Gnome",
+          "class": "Warlock"
+        }
+      ]
+    },
+    {
+      "type": "Travel",
+      "coordinates": {
+        "zoneID": 1537,
+        "x": 81,
+        "y": 52
+      },
+      "description": "Ride tram to [zone:1519]",
+      "onlyFor": [
+        {
+          "race": "Gnome",
+          "class": "Warlock"
+        }
+      ]
+    },
+    {
+      "type": "Turn in Quest",
+      "coordinates": {
+        "zoneID": 1519,
+        "x": 40,
+        "y": 85
+      },
+      "questID": 1715,
+      "onlyFor": [
+        {
+          "race": "Gnome",
+          "class": "Warlock"
+        }
+      ]
+    },
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 1519,
+        "x": 40,
+        "y": 85
+      },
+      "questID": 1688,
+      "onlyFor": [
+        {
+          "race": "Gnome",
+          "class": "Warlock"
+        }
+      ]
+    },
+    {
+      "type": "Travel",
+      "coordinates": {
+        "zoneID": 1519,
+        "areaID": 12,
+        "x": 75,
+        "y": 94.5
+      },
+      "description": "Go to [zone:12]",
+      "onlyFor": [
+        {
+          "race": "Gnome",
+          "class": "Warlock"
+        }
+      ]
+    },
+    {
+      "type": "Do Quest",
+      "coordinates": {
+        "zoneID": 12,
+        "areaID": 62,
+        "x": 69.5,
+        "y": 79
+      },
+      "questID": 1688,
+      "description": "Loot [item:6810] from [npc:881]",
+      "onlyFor": [
+        {
+          "race": "Gnome",
+          "class": "Warlock"
+        }
+      ]
+    },
+    {
+      "type": "Travel",
+      "coordinates": {
+        "zoneID": 12,
+        "areaID": 1519,
+        "x": 32.4,
+        "y": 49.9
+      },
+      "description": "Go to [zone:1519]",
+      "onlyFor": [
+        {
+          "race": "Gnome",
+          "class": "Warlock"
+        }
+      ]
+    },
+    {
+      "type": "Turn in Quest",
+      "coordinates": {
+        "zoneID": 1519,
+        "x": 40,
+        "y": 85
+      },
+      "questID": 1688,
+      "onlyFor": [
+        {
+          "race": "Gnome",
+          "class": "Warlock"
+        }
+      ]
+    },
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 1519,
+        "x": 40,
+        "y": 85
+      },
+      "questID": 1689,
+      "onlyFor": [
+        {
+          "race": "Gnome",
+          "class": "Warlock"
+        }
+      ]
+    },
+    {
+      "type": "Do Quest",
+      "coordinates": {
+        "zoneID": 1519,
+        "x": 40,
+        "y": 85
+      },
+      "questID": 1689,
+      "description": "Kill [npc:5676] (use [item:6928] downstairs)",
+      "onlyFor": [
+        {
+          "race": "Gnome",
+          "class": "Warlock"
+        }
+      ]
+    },
+    {
+      "type": "Turn in Quest",
+      "coordinates": {
+        "zoneID": 1519,
+        "x": 40,
+        "y": 85
+      },
+      "questID": 1689,
+      "onlyFor": [
+        {
+          "race": "Gnome",
+          "class": "Warlock"
+        }
+      ]
+    },
+    {
+      "type": "Travel",
+      "coordinates": {
+        "zoneID": 1519,
+        "x": 66.8,
+        "y": 33.4
+      },
+      "description": "Ride tram to [zone:1537]",
+      "onlyFor": [
+        {
+          "race": "Gnome",
+          "class": "Warlock"
+        }
+      ]
+    },
+    {
+      "type": "Travel",
+      "coordinates": {
+        "zoneID": 1537,
+        "areaID": 1,
+        "x": 55.5,
+        "y": 47.5
+      },
+      "description": "Fly to [zone:144]",
+      "onlyFor": [
+        {
+          "race": "Gnome",
+          "class": "Warlock"
+        }
+      ]
+    },
+    {
+      "type": "Turn in Quest",
+      "coordinates": {
+        "zoneID": 38,
+        "areaID": 144,
+        "x": 36,
+        "y": 46
+      },
+      "questID": 414
+    },
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 38,
+        "areaID": 144,
+        "x": 36,
+        "y": 46
+      },
+      "questID": 416
+    },
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 38,
+        "areaID": 144,
+        "x": 36,
+        "y": 46
+      },
+      "questID": 1339
+    },
+    {
+      "type": "Hearthstone",
+      "coordinates": {
+        "zoneID": 38,
+        "areaID": 144,
+        "x": 36,
+        "y": 46
+      },
+      "description": "Set Hearthstone to [zone:144]",
+      "setHearthstone": 144
+    },
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 38,
+        "areaID": 144,
+        "x": 36,
+        "y": 46
+      },
+      "questID": 418
+    },
+    {
+      "type": "Do Quest",
+      "coordinates": {
+        "zoneID": 38,
+        "x": 36.5,
+        "y": 39
+      },
+      "questID": 418,
+      "description": "Loot 3 [item:3172] from [npc:1190], 3 [item:3173] from [npc:1186] and 3 [item:3174] from [npc:1195]"
+    },
+    {
+      "type": "Do Quest",
+      "coordinates": {
+        "zoneID": 38,
+        "x": 24.5,
+        "y": 33.5
+      },
+      "questID": 416,
+      "description": "Loot 12 [item:3110] from [npc:1173], [npc:1176], [npc:1202] and [npc:1172]"
+    },
+    {
+      "type": "Turn in Quest",
+      "coordinates": {
+        "zoneID": 38,
+        "areaID": 925,
+        "x": 24,
+        "y": 18
+      },
+      "questID": 1339
+    },
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 38,
+        "areaID": 925,
+        "x": 24,
+        "y": 18
+      },
+      "questID": 1338
+    },
+    {
+      "type": "Level Up",
+      "coordinates": {
+        "zoneID": 38,
+        "areaID": 925,
+        "x": 24,
+        "y": 18
+      },
+      "description": "11"
+    },
+    {
+      "type": "Hearthstone",
+      "coordinates": {
+        "zoneID": 38,
+        "areaID": 925,
+        "x": 24,
+        "y": 18
+      },
+      "description": "Hearth to [zone:144]"
+    },
+    {
+      "type": "Turn in Quest",
+      "coordinates": {
+        "zoneID": 38,
+        "areaID": 144,
+        "x": 36,
+        "y": 46
+      },
+      "questID": 418
+    },
+    {
+      "type": "Turn in Quest",
+      "coordinates": {
+        "zoneID": 38,
+        "areaID": 144,
+        "x": 36,
+        "y": 46
+      },
+      "questID": 416
+    },
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 38,
+        "areaID": 924,
+        "x": 23,
+        "y": 74.5
+      },
+      "questID": 224
+    },
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 38,
+        "areaID": 924,
+        "x": 23,
+        "y": 74.5
+      },
+      "questID": 267
+    },
+    {
+      "type": "Do Quest",
+      "coordinates": {
+        "zoneID": 38,
+        "areaID": 923,
+        "x": 32,
+        "y": 71
+      },
+      "questID": 224,
+      "description": "Kill 10 [npc:1161] and 10 [npc:1162]"
+    },
+    {
+      "type": "Do Quest",
+      "coordinates": {
+        "zoneID": 38,
+        "areaID": 923,
+        "x": 32,
+        "y": 71
+      },
+      "questID": 267,
+      "description": "Loot 8 [item:2536] from [npc:1161] and [npc:1162]"
+    },
+    {
+      "type": "Turn in Quest",
+      "coordinates": {
+        "zoneID": 38,
+        "areaID": 924,
+        "x": 23,
+        "y": 74.5
+      },
+      "questID": 224
+    },
+    {
+      "type": "Turn in Quest",
+      "coordinates": {
+        "zoneID": 38,
+        "areaID": 924,
+        "x": 23,
+        "y": 74.5
+      },
+      "questID": 267
+    },
+    {
+      "type": "Travel",
+      "coordinates": {
+        "zoneID": 38,
+        "areaID": 144,
+        "x": 36,
+        "y": 46
+      },
+      "description": "Fly to [zone:1537]"
+    },
+    {
+      "type": "Turn in Quest",
+      "coordinates": {
+        "zoneID": 1537,
+        "x": 39.5,
+        "y": 57.5
+      },
+      "questID": 291
+    },
+    {
+      "type": "Travel",
+      "coordinates": {
+        "zoneID": 1537,
+        "x": 81,
+        "y": 52
+      },
+      "description": "Ride tram to [zone:1519]"
+    },
+    {
+      "type": "Turn in Quest",
+      "coordinates": {
+        "zoneID": 1519,
+        "x": 63.5,
+        "y": 37
+      },
+      "questID": 1338
+    },
+    {
+      "type": "Note",
+      "coordinates": {
+        "zoneID": 1519,
+        "x": 69.5,
+        "y": 74
+      },
+      "description": "Open [zone:1519] flight path"
+    },
+    {
+      "type": "Travel",
+      "coordinates": {
+        "zoneID": 1519,
+        "areaID": 4411,
+        "x": 22.5,
+        "y": 56
+      },
+      "description": "Ride boat to [zone:442]"
+    },
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 148,
+        "areaID": 442,
+        "x": 39,
+        "y": 43.5
+      },
+      "questID": 983
+    },
+    {
+      "type": "Hearthstone",
+      "coordinates": {
+        "zoneID": 148,
+        "areaID": 442,
+        "x": 39,
+        "y": 43.5
+      },
+      "description": "Set Hearthstone to [zone:442]",
+      "setHearthstone": 442
+    },
+    {
+      "type": "Note",
+      "coordinates": {
+        "zoneID": 148,
+        "areaID": 442,
+        "x": 39,
+        "y": 43.5
+      },
+      "description": "Open [zone:442] flight path"
+    },
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 148,
+        "areaID": 442,
+        "x": 39,
+        "y": 43.5
+      },
+      "questID": 3524
+    },
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 148,
+        "areaID": 442,
+        "x": 39,
+        "y": 43.5
+      },
+      "questID": 984
+    },
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 148,
+        "areaID": 442,
+        "x": 39,
+        "y": 43.5
+      },
+      "questID": 954
+    },
+    {
+      "type": "Do Quest",
+      "coordinates": {
+        "zoneID": 148,
+        "areaID": 453,
+        "x": 36.5,
+        "y": 49.5
+      },
+      "questID": 983,
+      "description": "Loot 6 [item:5385] from [npc:2231] and [npc:2234]"
+    },
+    {
+      "type": "Level Up",
+      "coordinates": {
+        "zoneID": 148,
+        "areaID": 453,
+        "x": 36.5,
+        "y": 49.5
+      },
+      "description": "12"
+    },
+    {
+      "type": "Do Quest",
+      "coordinates": {
+        "zoneID": 148,
+        "areaID": 453,
+        "x": 36.5,
+        "y": 49.5
+      },
+      "questID": 3524,
+      "description": "Collect [item:12242] from [object:175207]"
+    },
+    {
+      "type": "Turn in Quest",
+      "coordinates": {
+        "zoneID": 148,
+        "areaID": 442,
+        "x": 39,
+        "y": 43.5
+      },
+      "questID": 983
+    },
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 148,
+        "areaID": 442,
+        "x": 39,
+        "y": 43.5
+      },
+      "questID": 1001
+    },
+    {
+      "type": "Turn in Quest",
+      "coordinates": {
+        "zoneID": 148,
+        "areaID": 442,
+        "x": 39,
+        "y": 43.5
+      },
+      "questID": 3524
+    },
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 148,
+        "areaID": 442,
+        "x": 39,
+        "y": 43.5
+      },
+      "questID": 4681
+    },
+    {
+      "type": "Do Quest",
+      "coordinates": {
+        "zoneID": 148,
+        "areaID": 442,
+        "x": 35,
+        "y": 43
+      },
+      "questID": 1001,
+      "description": "Loot 3 [item:5412] from [npc:2185]"
+    },
+    {
+      "type": "Do Quest",
+      "coordinates": {
+        "zoneID": 148,
+        "areaID": 453,
+        "x": 32,
+        "y": 46.5
+      },
+      "questID": 4681,
+      "description": "Collect [item:12289] from [object:176189]"
+    },
+    {
+      "type": "Do Quest",
+      "coordinates": {
+        "zoneID": 148,
+        "x": 39.5,
+        "y": 53
+      },
+      "questID": 984,
+      "description": "Explore (39.6, 52.9)"
+    },
+    {
+      "type": "Turn in Quest",
+      "coordinates": {
+        "zoneID": 148,
+        "areaID": 442,
+        "x": 39,
+        "y": 43.5
+      },
+      "questID": 984
+    },
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 148,
+        "areaID": 442,
+        "x": 39,
+        "y": 43.5
+      },
+      "questID": 4761
+    },
+    {
+      "type": "Turn in Quest",
+      "coordinates": {
+        "zoneID": 148,
+        "areaID": 442,
+        "x": 39,
+        "y": 43.5
+      },
+      "questID": 4681
+    },
+    {
+      "type": "Turn in Quest",
+      "coordinates": {
+        "zoneID": 148,
+        "areaID": 442,
+        "x": 39,
+        "y": 43.5
+      },
+      "questID": 4761
+    },
+    {
+      "type": "Turn in Quest",
+      "coordinates": {
+        "zoneID": 148,
+        "areaID": 446,
+        "x": 45,
+        "y": 36.5
+      },
+      "questID": 954
+    },
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 148,
+        "areaID": 446,
+        "x": 45,
+        "y": 36.5
+      },
+      "questID": 955
+    },
+    {
+      "type": "Do Quest",
+      "coordinates": {
+        "zoneID": 148,
+        "areaID": 446,
+        "x": 45,
+        "y": 36.5
+      },
+      "questID": 955,
+      "description": "Loot 8 [item:5336] from [npc:2190] and [npc:2189]"
+    },
+    {
+      "type": "Turn in Quest",
+      "coordinates": {
+        "zoneID": 148,
+        "areaID": 446,
+        "x": 45,
+        "y": 36.5
+      },
+      "questID": 955
+    },
+    {
+      "type": "Turn in Quest",
+      "coordinates": {
+        "zoneID": 148,
+        "areaID": 452,
+        "x": 42,
+        "y": 28.5
+      },
+      "questID": 1001
+    },
+    {
+      "type": "Level Up",
+      "coordinates": {
+        "zoneID": 148,
+        "areaID": 452,
+        "x": 42,
+        "y": 28.5
+      },
+      "description": "13"
+    },
+    {
+      "type": "Hearthstone",
+      "coordinates": {
+        "zoneID": 148,
+        "areaID": 452,
+        "x": 42,
+        "y": 28.5
+      },
+      "description": "Hearth to [zone:442]"
+    },
+    {
+      "type": "Travel",
+      "coordinates": {
+        "zoneID": 148,
+        "areaID": 442,
+        "x": 39,
+        "y": 43.5
+      },
+      "description": "Ride boat to [zone:1519]"
+    },
+    {
+      "type": "Travel",
+      "coordinates": {
+        "zoneID": 1519,
+        "areaID": 12,
+        "x": 75,
+        "y": 94.5
+      },
+      "description": "Go to [zone:12]"
+    },
+    {
+      "type": "Accept Quest",
+      "coordinates": {
+        "zoneID": 12,
+        "areaID": 87,
+        "x": 42.5,
+        "y": 66
+      },
+      "questID": 109
+    },
+    {
+      "type": "Travel",
+      "coordinates": {
+        "zoneID": 12,
+        "areaID": 40,
+        "x": 20,
+        "y": 81
+      },
+      "description": "Go to [zone:40]"
+    }
+  ]
+}

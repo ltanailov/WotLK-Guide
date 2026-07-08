@@ -10,6 +10,8 @@ import type {
     IStepTypeMeta,
 } from './Types'
 
+import { asset } from './lib/asset'
+
 export const FACTIONS: FactionType[] = ['Alliance', 'Horde']
 
 export const GENDERS: GenderType[] = ['Male', 'Female']
@@ -67,12 +69,12 @@ const CLASS_SLUG: Record<ClassType, string> = {
 }
 
 export const raceIconSrc = (race: RaceType, gender: GenderType): string =>
-    `/icons/race/${RACE_SLUG[race]}_${gender.toLowerCase()}.jpg`
+    asset(`/icons/race/${RACE_SLUG[race]}_${gender.toLowerCase()}.jpg`)
 
-export const classIconSrc = (cls: ClassType): string => `/icons/class/${CLASS_SLUG[cls]}.jpg`
+export const classIconSrc = (cls: ClassType): string => asset(`/icons/class/${CLASS_SLUG[cls]}.jpg`)
 
 export const factionIconSrc = (faction: FactionType): string =>
-    `/icons/faction/${faction.toLowerCase()}.jpg`
+    asset(`/icons/faction/${faction.toLowerCase()}.jpg`)
 
 export const RACES_BY_FACTION: Record<FactionType, RaceType[]> = {
     Alliance: ['Human', 'Dwarf', 'Night Elf', 'Gnome', 'Draenei'],

@@ -6,6 +6,8 @@ import { STEP_TYPES } from '../Constants'
 import { dbUrl } from '../lib/db'
 import type { IStep, IStepTypeMeta } from '../Types'
 
+import { asset } from '../lib/asset'
+
 const Step = ({ step }: { step: IStep }): ReactElement => {
     const meta: IStepTypeMeta = STEP_TYPES[step.type]
 
@@ -43,7 +45,7 @@ const Step = ({ step }: { step: IStep }): ReactElement => {
             }
         >
             <img
-                src={`/icons/steps/${meta.icon}`}
+                src={asset(`/icons/steps/${meta.icon}`)}
                 alt={''}
                 className={'h-5 w-5 shrink-0 object-contain'}
             />

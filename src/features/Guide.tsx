@@ -27,6 +27,8 @@ import type {
     IJourneyStop,
 } from '../Types'
 
+import { asset } from '../lib/asset'
+
 const PANEL: string = 'rounded-xl border border-slate-700 bg-slate-800/40 p-4'
 
 const Guide = ({ character, onExit, onNavigate }: IGuideProps): ReactElement => {
@@ -182,7 +184,7 @@ const Guide = ({ character, onExit, onNavigate }: IGuideProps): ReactElement => 
                                 }
                             >
                                 <Icon
-                                    src={'/icons/ui/IconChevronRight.svg'}
+                                    src={asset('/icons/ui/IconChevronRight.svg')}
                                     className={
                                         'ml-1 h-8 w-8 rotate-180 transition-transform group-hover:scale-125'
                                     }
@@ -198,7 +200,7 @@ const Guide = ({ character, onExit, onNavigate }: IGuideProps): ReactElement => 
                                 }
                             >
                                 <Icon
-                                    src={'/icons/ui/IconChevronRight.svg'}
+                                    src={asset('/icons/ui/IconChevronRight.svg')}
                                     className={
                                         'mr-1 h-8 w-8 transition-transform group-hover:scale-125'
                                     }
@@ -263,7 +265,7 @@ const Guide = ({ character, onExit, onNavigate }: IGuideProps): ReactElement => 
                                 'flex shrink-0 cursor-pointer items-center justify-center self-center rounded p-1.5 text-slate-400 transition-colors hover:text-slate-200'
                             }
                         >
-                            <Icon src={'/icons/ui/IconOptions.svg'} className={'h-5 w-5'} />
+                            <Icon src={asset('/icons/ui/IconOptions.svg')} className={'h-5 w-5'} />
                         </button>
                     </div>
 
@@ -280,7 +282,7 @@ const Guide = ({ character, onExit, onNavigate }: IGuideProps): ReactElement => 
                                 }
                             >
                                 <img
-                                    src={'/icons/steps/IconHearthstone.png'}
+                                    src={asset('/icons/steps/IconHearthstone.png')}
                                     alt={'Hearthstone'}
                                     className={'h-4 w-4 object-contain'}
                                 />

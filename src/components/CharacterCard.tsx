@@ -6,6 +6,8 @@ import Icon from './Icon'
 import { CLASS_COLORS, raceIconSrc } from '../Constants'
 import type { ICharacterCardProps } from '../Types'
 
+import { asset } from '../lib/asset'
+
 const CharacterCard = ({
     character,
     isSelected,
@@ -95,7 +97,7 @@ const CharacterCard = ({
                         'absolute top-1/2 right-2 -translate-y-1/2 cursor-pointer rounded p-1.5 text-slate-500 transition-colors hover:text-red-400'
                     }
                 >
-                    <Icon src={'/icons/ui/IconTrash.svg'} className={'h-4 w-4'} />
+                    <Icon src={asset('/icons/ui/IconTrash.svg')} className={'h-4 w-4'} />
                 </button>
             )}
         </div>

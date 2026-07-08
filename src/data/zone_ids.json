@@ -1,0 +1,372 @@
+[
+    {
+        "filename": "Alterac",
+        "id": 36,
+        "name": "Alterac Mountains"
+    },
+    {
+        "filename": "Arathi",
+        "id": 45,
+        "name": "Arathi Highlands"
+    },
+    {
+        "filename": "Ashenvale",
+        "id": 331,
+        "name": "Ashenvale"
+    },
+    {
+        "filename": "Aszhara",
+        "id": 16,
+        "name": "Azshara"
+    },
+    {
+        "filename": "AzuremystIsle",
+        "id": 3524,
+        "name": "Azuremyst Isle"
+    },
+    {
+        "filename": "Badlands",
+        "id": 3,
+        "name": "Badlands"
+    },
+    {
+        "filename": "Barrens",
+        "id": 17,
+        "name": "The Barrens"
+    },
+    {
+        "filename": "BladesEdgeMountains",
+        "id": 3522,
+        "name": "Blade's Edge Mountains"
+    },
+    {
+        "filename": "BlastedLands",
+        "id": 4,
+        "name": "Blasted Lands"
+    },
+    {
+        "filename": "BloodmystIsle",
+        "id": 3525,
+        "name": "Bloodmyst Isle"
+    },
+    {
+        "filename": "BoreanTundra",
+        "id": 3537,
+        "name": "Borean Tundra"
+    },
+    {
+        "filename": "BurningSteppes",
+        "id": 46,
+        "name": "Burning Steppes"
+    },
+    {
+        "filename": "CrystalSongForest",
+        "id": 2817,
+        "name": "Crystalsong Forest"
+    },
+    {
+        "filename": "Dalaran",
+        "id": 4395,
+        "name": "Dalaran"
+    },
+    {
+        "filename": "Darkshore",
+        "id": 148,
+        "name": "Darkshore"
+    },
+    {
+        "filename": "Darnassis",
+        "id": 1657,
+        "name": "Darnassus"
+    },
+    {
+        "filename": "DeadwindPass",
+        "id": 41,
+        "name": "Deadwind Pass"
+    },
+    {
+        "filename": "Desolace",
+        "id": 405,
+        "name": "Desolace"
+    },
+    {
+        "filename": "Dragonblight",
+        "id": 65,
+        "name": "Dragonblight"
+    },
+    {
+        "filename": "DunMorogh",
+        "id": 1,
+        "name": "Dun Morogh"
+    },
+    {
+        "filename": "Durotar",
+        "id": 14,
+        "name": "Durotar"
+    },
+    {
+        "filename": "Duskwood",
+        "id": 10,
+        "name": "Duskwood"
+    },
+    {
+        "filename": "Dustwallow",
+        "id": 15,
+        "name": "Dustwallow Marsh"
+    },
+    {
+        "filename": "EasternPlaguelands",
+        "id": 139,
+        "name": "Eastern Plaguelands"
+    },
+    {
+        "filename": "Elwynn",
+        "id": 12,
+        "name": "Elwynn Forest"
+    },
+    {
+        "filename": "EversongWoods",
+        "id": 3430,
+        "name": "Eversong Woods"
+    },
+    {
+        "filename": "Felwood",
+        "id": 361,
+        "name": "Felwood"
+    },
+    {
+        "filename": "Feralas",
+        "id": 357,
+        "name": "Feralas"
+    },
+    {
+        "filename": "Ghostlands",
+        "id": 3433,
+        "name": "Ghostlands"
+    },
+    {
+        "filename": "GrizzlyHills",
+        "id": 394,
+        "name": "Grizzly Hills"
+    },
+    {
+        "filename": "Hellfire",
+        "id": 3483,
+        "name": "Hellfire Peninsula"
+    },
+    {
+        "filename": "Hilsbrad",
+        "id": 267,
+        "name": "Hillsbrad Foothills"
+    },
+    {
+        "filename": "Hinterlands",
+        "id": 47,
+        "name": "The Hinterlands"
+    },
+    {
+        "filename": "HowlingFjord",
+        "id": 495,
+        "name": "Howling Fjord"
+    },
+    {
+        "filename": "HrothgarsLanding",
+        "id": 4742,
+        "name": "Hrothgar's Landing"
+    },
+    {
+        "filename": "IcecrownGlacier",
+        "id": 210,
+        "name": "Icecrown"
+    },
+    {
+        "filename": "Ironforge",
+        "id": 1537,
+        "name": "Ironforge"
+    },
+    {
+        "filename": "LakeWintergrasp",
+        "id": 4197,
+        "name": "Wintergrasp"
+    },
+    {
+        "filename": "LochModan",
+        "id": 38,
+        "name": "Loch Modan"
+    },
+    {
+        "filename": "Moonglade",
+        "id": 493,
+        "name": "Moonglade"
+    },
+    {
+        "filename": "Mulgore",
+        "id": 215,
+        "name": "Mulgore"
+    },
+    {
+        "filename": "Nagrand",
+        "id": 3518,
+        "name": "Nagrand"
+    },
+    {
+        "filename": "Netherstorm",
+        "id": 3523,
+        "name": "Netherstorm"
+    },
+    {
+        "filename": "Ogrimmar",
+        "id": 1637,
+        "name": "Orgrimmar"
+    },
+    {
+        "filename": "Redridge",
+        "id": 44,
+        "name": "Redridge Mountains"
+    },
+    {
+        "filename": "ScarletEnclave",
+        "id": 4298,
+        "name": "Plaguelands: The Scarlet Enclave"
+    },
+    {
+        "filename": "SearingGorge",
+        "id": 51,
+        "name": "Searing Gorge"
+    },
+    {
+        "filename": "ShadowmoonValley",
+        "id": 3520,
+        "name": "Shadowmoon Valley"
+    },
+    {
+        "filename": "ShattrathCity",
+        "id": 3703,
+        "name": "Shattrath City"
+    },
+    {
+        "filename": "SholazarBasin",
+        "id": 3711,
+        "name": "Sholazar Basin"
+    },
+    {
+        "filename": "Silithus",
+        "id": 1377,
+        "name": "Silithus"
+    },
+    {
+        "filename": "SilvermoonCity",
+        "id": 3487,
+        "name": "Silvermoon City"
+    },
+    {
+        "filename": "Silverpine",
+        "id": 130,
+        "name": "Silverpine Forest"
+    },
+    {
+        "filename": "StonetalonMountains",
+        "id": 406,
+        "name": "Stonetalon Mountains"
+    },
+    {
+        "filename": "Stormwind",
+        "id": 1519,
+        "name": "Stormwind City"
+    },
+    {
+        "filename": "Stranglethorn",
+        "id": 33,
+        "name": "Stranglethorn Vale"
+    },
+    {
+        "filename": "Sunwell",
+        "id": 4080,
+        "name": "Isle of Quel'Danas"
+    },
+    {
+        "filename": "SwampOfSorrows",
+        "id": 8,
+        "name": "Swamp of Sorrows"
+    },
+    {
+        "filename": "Tanaris",
+        "id": 440,
+        "name": "Tanaris"
+    },
+    {
+        "filename": "Teldrassil",
+        "id": 141,
+        "name": "Teldrassil"
+    },
+    {
+        "filename": "TerokkarForest",
+        "id": 3519,
+        "name": "Terokkar Forest"
+    },
+    {
+        "filename": "TheExodar",
+        "id": 3557,
+        "name": "The Exodar"
+    },
+    {
+        "filename": "TheStormPeaks",
+        "id": 67,
+        "name": "The Storm Peaks"
+    },
+    {
+        "filename": "ThousandNeedles",
+        "id": 400,
+        "name": "Thousand Needles"
+    },
+    {
+        "filename": "ThunderBluff",
+        "id": 1638,
+        "name": "Thunder Bluff"
+    },
+    {
+        "filename": "Tirisfal",
+        "id": 85,
+        "name": "Tirisfal Glades"
+    },
+    {
+        "filename": "Undercity",
+        "id": 1497,
+        "name": "Undercity"
+    },
+    {
+        "filename": "UngoroCrater",
+        "id": 490,
+        "name": "Un'Goro Crater"
+    },
+    {
+        "filename": "WesternPlaguelands",
+        "id": 28,
+        "name": "Western Plaguelands"
+    },
+    {
+        "filename": "Westfall",
+        "id": 40,
+        "name": "Westfall"
+    },
+    {
+        "filename": "Wetlands",
+        "id": 11,
+        "name": "Wetlands"
+    },
+    {
+        "filename": "Winterspring",
+        "id": 618,
+        "name": "Winterspring"
+    },
+    {
+        "filename": "Zangarmarsh",
+        "id": 3521,
+        "name": "Zangarmarsh"
+    },
+    {
+        "filename": "ZulDrak",
+        "id": 66,
+        "name": "Zul'Drak"
+    }
+]

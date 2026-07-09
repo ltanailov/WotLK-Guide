@@ -107,6 +107,15 @@ export const START_GUIDE_BY_RACE: Record<RaceType, GuideType> = {
     'Blood Elf': 'WotLK Guide - Horde - Blood Elf - (1 - 13)',
 }
 
+export const startGuideNameFor = (character: {
+    faction: FactionType
+    race: RaceType
+    class: ClassType
+}): GuideType =>
+    character.class === 'Death Knight'
+        ? (`WotLK Guide - ${character.faction} - Death Knight - (55 - 60)` as GuideType)
+        : START_GUIDE_BY_RACE[character.race]
+
 export const STEP_TYPES: Record<ActionType, IStepTypeMeta> = {
     'Accept Quest': {
         label: 'Accept',

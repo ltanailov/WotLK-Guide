@@ -1,3 +1,4 @@
+import { startGuideNameFor } from '../Constants'
 import type { GuideType, ICharacter, IGuide } from '../Types'
 
 const guideModules: Record<string, string> = import.meta.glob('/guide/**/*.guide', {
@@ -26,7 +27,7 @@ export const allGuides = (): IGuide[] => Object.values(byName)
 export const nextGuide = (guide: IGuide): IGuide | undefined => byName[guide.next]
 
 export const starterGuideFor = (character: ICharacter): IGuide | undefined =>
-    allGuides().find((g: IGuide) => g.faction === character.faction && g.race === character.race)
+    getGuide(startGuideNameFor(character))
 
 export const prevGuide = (guide: IGuide, character: ICharacter): IGuide | undefined => {
     const candidates: IGuide[] = allGuides().filter((g: IGuide) => g.next === guide.name)

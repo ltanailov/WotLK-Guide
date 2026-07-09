@@ -1,7 +1,7 @@
 import { useCallback } from 'react'
 
 import { useLocalStorage } from './useLocalStorage'
-import { START_GUIDE_BY_RACE } from '../Constants'
+import { startGuideNameFor } from '../Constants'
 import type { ICharacter, ISavedCharacter } from '../Types'
 
 export const useCharacters = (): {
@@ -18,7 +18,7 @@ export const useCharacters = (): {
                 ...character,
                 id: crypto.randomUUID(),
                 level: 1,
-                guide: START_GUIDE_BY_RACE[character.race],
+                guide: startGuideNameFor(character),
                 section: 0,
             }
             setCharacters((prev: ISavedCharacter[]) => [saved, ...prev])

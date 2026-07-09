@@ -1,9 +1,20 @@
 import { useState } from 'react'
-import type { ReactElement } from 'react'
+import type { CSSProperties, ReactElement } from 'react'
 import clsx from 'clsx'
 
 import { MARKER_STYLE } from '../Constants'
 import type { IMapProps, IMapMarker } from '../Types'
+
+const MAP_VARS: CSSProperties = {
+    '--map-marker': 'clamp(0.875rem, 2.72cqw, 1.25rem)',
+} as CSSProperties
+
+const MARKER_SIZE: string = 'var(--map-marker)'
+const MARKER_FONT: string = 'calc(var(--map-marker) * 0.52)'
+const MARKER_BORDER: string = 'max(1px, calc(var(--map-marker) * 0.05)) solid #000'
+const TRAIL_OUTLINE: string = 'calc(var(--map-marker) * 0.275)'
+const TRAIL_STROKE: string = 'calc(var(--map-marker) * 0.14)'
+const TRAIL_DASH: string = '0.1px calc(var(--map-marker) * 0.4)'
 
 const Map = ({
     src,
@@ -19,7 +30,7 @@ const Map = ({
     const points: string = markers.map((m: IMapMarker) => `${m.x},${m.y}`).join(' ')
 
     return (
-        <div className={'relative block w-full leading-0'}>
+        <div className={'@container relative block w-full leading-0'} style={MAP_VARS}>
             {showMap ? (
                 <img
                     src={src}
@@ -48,19 +59,17 @@ const Map = ({
                         fill={'none'}
                         stroke={'#000'}
                         strokeOpacity={0.85}
-                        strokeWidth={5.5}
-                        strokeDasharray={'0.1 8'}
                         strokeLinecap={'round'}
                         vectorEffect={'non-scaling-stroke'}
+                        style={{ strokeWidth: TRAIL_OUTLINE, strokeDasharray: TRAIL_DASH }}
                     />
                     <polyline
                         points={points}
                         fill={'none'}
                         stroke={'#fbbf24'}
-                        strokeWidth={2.8}
-                        strokeDasharray={'0.1 8'}
                         strokeLinecap={'round'}
                         vectorEffect={'non-scaling-stroke'}
+                        style={{ strokeWidth: TRAIL_STROKE, strokeDasharray: TRAIL_DASH }}
                     />
                 </svg>
             )}
@@ -75,10 +84,18 @@ const Map = ({
                         onClick={() => onMarkerClick?.(m.number)}
                         title={`Step ${m.number}`}
                         className={clsx(
-                            'absolute flex h-5 w-5 -translate-x-1/2 -translate-y-1/2 cursor-pointer items-center justify-center rounded-full text-[0.65rem] font-bold leading-none shadow transition-transform duration-150',
+                            'absolute flex -translate-x-1/2 -translate-y-1/2 cursor-pointer items-center justify-center rounded-full font-bold leading-none shadow transition-transform duration-150',
                             activeMarker === m.number && 'z-10 scale-125',
                         )}
-                        style={{ left: `${m.x}%`, top: `${m.y}%`, ...MARKER_STYLE }}
+                        style={{
+                            left: `${m.x}%`,
+                            top: `${m.y}%`,
+                            ...MARKER_STYLE,
+                            width: MARKER_SIZE,
+                            height: MARKER_SIZE,
+                            fontSize: MARKER_FONT,
+                            border: MARKER_BORDER,
+                        }}
                     >
                         {m.number}
                     </button>

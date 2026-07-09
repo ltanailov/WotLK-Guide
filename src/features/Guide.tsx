@@ -35,17 +35,14 @@ const Guide = ({ character, onExit, onNavigate }: IGuideProps): ReactElement => 
     const mapRef: RefObject<HTMLDivElement | null> = useRef<HTMLDivElement>(null)
     const blockRef: RefObject<HTMLDivElement | null> = useRef<HTMLDivElement>(null)
     const [layout, setLayout] = useState<{
-        headerH: number
         mapH: number
         blockH: number
         isDesktop: boolean
-    }>({ headerH: 56, mapH: 0, blockH: 0, isDesktop: false })
+    }>({ mapH: 0, blockH: 0, isDesktop: false })
 
     useEffect(() => {
         const measure = (): void => {
-            const header: HTMLElement | null = document.querySelector('header')
             setLayout({
-                headerH: header ? Math.round(header.getBoundingClientRect().height) : 56,
                 mapH: mapRef.current?.offsetHeight ?? 0,
                 blockH: blockRef.current?.offsetHeight ?? 0,
                 isDesktop: window.matchMedia('(min-width: 1024px)').matches,
@@ -62,12 +59,10 @@ const Guide = ({ character, onExit, onNavigate }: IGuideProps): ReactElement => 
         }
     }, [])
 
-    const GAP_MAP_HEADER: number = 24
     const GAP_BLOCK_MAP: number = 12
-    const mapTop: number = layout.isDesktop ? 80 : layout.headerH + GAP_MAP_HEADER
-    const blockTop: number = layout.isDesktop
-        ? 80
-        : layout.headerH + GAP_MAP_HEADER + layout.mapH + GAP_BLOCK_MAP
+    const MOBILE_TOP: number = 12
+    const mapTop: number = layout.isDesktop ? 80 : MOBILE_TOP
+    const blockTop: number = layout.isDesktop ? 80 : MOBILE_TOP + layout.mapH + GAP_BLOCK_MAP
     const shadeTop: number = 0
     const shadeHeight: number | undefined = layout.isDesktop ? undefined : blockTop + layout.blockH
 

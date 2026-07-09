@@ -41,9 +41,9 @@ const Footer = (): ReactElement => {
 
                 <p className={'max-w-2xl text-xs leading-relaxed text-slate-500'}>
                     This is a fan-made, non-commercial project and is not affiliated with or
-                    endorsed by Blizzard Entertainment.\nWorld of Warcraft and Wrath of the Lich
-                    King are trademarks of Blizzard Entertainment, Inc. All rights reserved by
-                    Blizzard Entertainment.
+                    endorsed by Blizzard Entertainment. World of Warcraft and Wrath of the Lich King
+                    are trademarks of Blizzard Entertainment, Inc. All rights reserved by Blizzard
+                    Entertainment.
                 </p>
             </div>
         </footer>

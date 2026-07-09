@@ -6,7 +6,7 @@ const Header = (): ReactElement => {
     return (
         <header
             className={
-                'sticky top-0 z-40 flex items-center gap-3 border-b border-slate-700 bg-slate-800/90 backdrop-blur h-12 sm:h-14'
+                'relative z-40 flex items-center gap-3 border-b border-slate-700 bg-slate-800/90 backdrop-blur h-12 sm:h-14 lg:sticky lg:top-0'
             }
         >
             <img

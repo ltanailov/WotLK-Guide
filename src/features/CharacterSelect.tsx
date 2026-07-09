@@ -32,11 +32,25 @@ import type {
 } from '../Types'
 
 const MAX_NAME_LENGTH: number = 12
+const MAX_REPEAT: number = 2
+
+const limitRepeats = (input: string): string => {
+    let result: string = ''
+    let previous: string = ''
+    let run: number = 0
+    for (const char of input) {
+        const lower: string = char.toLowerCase()
+        run = lower === previous ? run + 1 : 1
+        previous = lower
+        if (run <= MAX_REPEAT) result += char
+    }
+    return result
+}
 
 const formatName = (raw: string): string => {
-    const letters: string = raw
-        .replace(/[^\p{Script=Latin}\p{Script=Cyrillic}]/gu, '')
-        .slice(0, MAX_NAME_LENGTH)
+    const letters: string = limitRepeats(
+        raw.replace(/[^\p{Script=Latin}\p{Script=Cyrillic}]/gu, ''),
+    ).slice(0, MAX_NAME_LENGTH)
     if (letters.length === 0) return ''
     return letters[0].toUpperCase() + letters.slice(1).toLowerCase()
 }

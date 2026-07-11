@@ -1862,8 +1862,8 @@
       "type": "Travel",
       "coordinates": {
         "zoneID": 1657,
-        "x": 29,
-        "y": 46
+        "x": 31,
+        "y": 41.5
       },
       "description": "Go to [zone:702]",
       "onlyFor": [
@@ -2043,8 +2043,8 @@
       "type": "Travel",
       "coordinates": {
         "zoneID": 1657,
-        "x": 29,
-        "y": 46
+        "x": 31,
+        "y": 41.5
       },
       "description": "Go to [zone:702]"
     },

@@ -2524,7 +2524,7 @@
         "x": 22,
         "y": 53.5
       },
-      "description": "Ride boat to [zone:442]"
+      "description": "Ride the boat to [zone:442]"
     },
     {
       "type": "Note",
@@ -2800,7 +2800,7 @@
         "x": 39,
         "y": 43.5
       },
-      "description": "Ride boat to [zone:3524]",
+      "description": "Ride the boat to [zone:3524]",
       "onlyFor": [
         {
           "race": "Draenei",
@@ -3040,7 +3040,7 @@
         "x": 22,
         "y": 53.5
       },
-      "description": "Ride boat to [zone:442]",
+      "description": "Ride the boat to [zone:442]",
       "onlyFor": [
         {
           "race": "Draenei",
@@ -3056,7 +3056,7 @@
         "x": 39,
         "y": 43.5
       },
-      "description": "Ride boat to [zone:1519]"
+      "description": "Ride the boat to [zone:1519]"
     },
     {
       "type": "Note",

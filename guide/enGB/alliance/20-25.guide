@@ -181,7 +181,7 @@
         "x": 22.5,
         "y": 55.5
       },
-      "description": "Ride boat to [zone:442]",
+      "description": "Ride the boat to [zone:442]",
       "onlyFor": [
         {
           "race": "Human",
@@ -342,7 +342,7 @@
         "x": 39,
         "y": 43.5
       },
-      "description": "Ride boat to [zone:1519]",
+      "description": "Ride the boat to [zone:1519]",
       "onlyFor": [
         {
           "race": "Human",
@@ -703,7 +703,7 @@
         "x": 22.5,
         "y": 55.5
       },
-      "description": "Ride boat to [zone:442]"
+      "description": "Ride the boat to [zone:442]"
     },
     {
       "type": "Accept Quest",
@@ -1915,7 +1915,7 @@
         "x": 39,
         "y": 43.5
       },
-      "description": "Ride boat to [zone:1519]"
+      "description": "Ride the boat to [zone:1519]"
     },
     {
       "type": "Turn in Quest",

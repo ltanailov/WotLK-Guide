@@ -1984,7 +1984,7 @@
         "x": 22.5,
         "y": 56
       },
-      "description": "Ride boat to [zone:442]"
+      "description": "Ride the boat to [zone:442]"
     },
     {
       "type": "Accept Quest",
@@ -2260,7 +2260,7 @@
         "x": 39,
         "y": 43.5
       },
-      "description": "Ride boat to [zone:1519]"
+      "description": "Ride the boat to [zone:1519]"
     },
     {
       "type": "Travel",

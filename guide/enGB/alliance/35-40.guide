@@ -143,7 +143,7 @@
         "x": 10.5,
         "y": 57.3
       },
-      "description": "Ride boat to [zone:513]"
+      "description": "Ride the boat to [zone:513]"
     },
     {
       "type": "Note",
@@ -604,7 +604,7 @@
         "x": 43.5,
         "y": 42.8
       },
-      "description": "Ride boat to [zone:1116]"
+      "description": "Ride the boat to [zone:1116]"
     },
     {
       "type": "Note",
@@ -674,7 +674,7 @@
         "x": 62.1,
         "y": 36.1
       },
-      "description": "Ride boat to [zone:35]"
+      "description": "Ride the boat to [zone:35]"
     },
     {
       "type": "Turn in Quest",
@@ -1192,7 +1192,7 @@
         "x": 27.3,
         "y": 75.1
       },
-      "description": "Ride boat to [zone:392]"
+      "description": "Ride the boat to [zone:392]"
     },
     {
       "type": "Travel",
@@ -1321,7 +1321,7 @@
         "x": 62.1,
         "y": 36.1
       },
-      "description": "Ride boat to [zone:35]"
+      "description": "Ride the boat to [zone:35]"
     },
     {
       "type": "Turn in Quest",
@@ -2060,7 +2060,7 @@
         "x": 10.5,
         "y": 57.3
       },
-      "description": "Ride boat to [zone:513]"
+      "description": "Ride the boat to [zone:513]"
     },
     {
       "type": "Accept Quest",

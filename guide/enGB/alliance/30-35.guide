@@ -75,7 +75,7 @@
         "x": 22.5,
         "y": 56
       },
-      "description": "Ride boat to [zone:442]",
+      "description": "Ride the boat to [zone:442]",
       "onlyFor": [
         {
           "race": "Human",
@@ -364,7 +364,7 @@
         "x": 39,
         "y": 44
       },
-      "description": "Ride boat to [zone:1519]",
+      "description": "Ride the boat to [zone:1519]",
       "onlyFor": [
         {
           "race": "Human",
@@ -443,7 +443,7 @@
         "x": 22.5,
         "y": 56
       },
-      "description": "Ride boat to [zone:442]",
+      "description": "Ride the boat to [zone:442]",
       "onlyFor": [
         {
           "race": "Draenei",
@@ -459,7 +459,7 @@
         "x": 39,
         "y": 44
       },
-      "description": "Ride boat to [zone:3524]",
+      "description": "Ride the boat to [zone:3524]",
       "onlyFor": [
         {
           "race": "Draenei",
@@ -664,7 +664,7 @@
         "x": 21.5,
         "y": 54
       },
-      "description": "Ride boat to [zone:442]",
+      "description": "Ride the boat to [zone:442]",
       "onlyFor": [
         {
           "race": "Draenei",
@@ -680,7 +680,7 @@
         "x": 39,
         "y": 44
       },
-      "description": "Ride boat to [zone:1519]",
+      "description": "Ride the boat to [zone:1519]",
       "onlyFor": [
         {
           "race": "Draenei",
@@ -742,7 +742,7 @@
         "x": 22.5,
         "y": 56
       },
-      "description": "Ride boat to [zone:442]"
+      "description": "Ride the boat to [zone:442]"
     },
     {
       "type": "Travel",
@@ -1356,7 +1356,7 @@
         "x": 39,
         "y": 44
       },
-      "description": "Ride boat to [zone:702]"
+      "description": "Ride the boat to [zone:702]"
     },
     {
       "type": "Note",
@@ -1470,7 +1470,7 @@
         "x": 39,
         "y": 44
       },
-      "description": "Ride boat to [zone:1519]"
+      "description": "Ride the boat to [zone:1519]"
     },
     {
       "type": "Travel",
@@ -2905,7 +2905,7 @@
         "x": 29,
         "y": 73.5
       },
-      "description": "Ride boat to [zone:392]"
+      "description": "Ride the boat to [zone:392]"
     },
     {
       "type": "Turn in Quest",

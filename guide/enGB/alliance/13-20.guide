@@ -423,8 +423,8 @@
       "type": "Do Quest",
       "coordinates": {
         "zoneID": 148,
-        "x": 43,
-        "y": 50.5
+        "x": 40.5,
+        "y": 53
       },
       "questID": 6123,
       "description": "Collect 12 [item:15851] from [object:177750]",
@@ -1077,8 +1077,8 @@
       "coordinates": {
         "zoneID": 148,
         "areaID": 452,
-        "x": 39,
-        "y": 26
+        "x": 42,
+        "y": 28.5
       },
       "questID": 982,
       "description": "Collect [item:12192] from [object:175166] and [item:12191] from [object:175165]"

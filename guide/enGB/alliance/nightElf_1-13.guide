@@ -529,8 +529,8 @@
       "coordinates": {
         "zoneID": 141,
         "areaID": 188,
-        "x": 60,
-        "y": 33
+        "x": 56.5,
+        "y": 33.5
       },
       "questID": 921,
       "description": "Use [item:5185]"

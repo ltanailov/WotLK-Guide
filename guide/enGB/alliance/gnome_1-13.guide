@@ -507,8 +507,8 @@
       "coordinates": {
         "zoneID": 1,
         "areaID": 131,
-        "x": 46.3,
-        "y": 52.1
+        "x": 46.5,
+        "y": 52
       },
       "questID": 420
     },
@@ -517,8 +517,8 @@
       "coordinates": {
         "zoneID": 1,
         "areaID": 131,
-        "x": 46.3,
-        "y": 52.1
+        "x": 46.5,
+        "y": 52
       },
       "questID": 384
     },
@@ -527,8 +527,8 @@
       "coordinates": {
         "zoneID": 1,
         "areaID": 131,
-        "x": 46.3,
-        "y": 52.1
+        "x": 46.5,
+        "y": 52
       },
       "questID": 2160
     },

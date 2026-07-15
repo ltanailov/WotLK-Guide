@@ -406,8 +406,8 @@
       "coordinates": {
         "zoneID": 405,
         "areaID": 598,
-        "x": 35.6,
-        "y": 25.6
+        "x": 38.9,
+        "y": 27.2
       },
       "questID": 6161,
       "description": "Loot [item:15881] from [npc:4711], [npc:4713], [npc:4712] and [npc:4718]"
@@ -1679,8 +1679,8 @@
       "coordinates": {
         "zoneID": 45,
         "areaID": 324,
-        "x": 26,
-        "y": 65.5
+        "x": 29.6,
+        "y": 64.2
       },
       "questID": 685,
       "description": "Loot [item:4516] from [npc:2599] and [item:4517] from [npc:2597]"
@@ -2037,8 +2037,8 @@
       "coordinates": {
         "zoneID": 267,
         "areaID": 271,
-        "x": 50.3,
-        "y": 59
+        "x": 50,
+        "y": 57.2
       },
       "questID": 661
     },

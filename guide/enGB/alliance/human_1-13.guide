@@ -345,8 +345,8 @@
       "coordinates": {
         "zoneID": 12,
         "areaID": 9,
-        "x": 50,
-        "y": 35.5
+        "x": 46.6,
+        "y": 36.2
       },
       "questID": 15,
       "description": "Kill 10 [npc:257]"

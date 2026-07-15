@@ -1283,8 +1283,8 @@
       "type": "Turn in Quest",
       "coordinates": {
         "zoneID": 331,
-        "x": 56.5,
-        "y": 49
+        "x": 53.5,
+        "y": 46.5
       },
       "questID": 1028,
       "description": "Click the [object:19024]"
@@ -1293,8 +1293,8 @@
       "type": "Accept Quest",
       "coordinates": {
         "zoneID": 331,
-        "x": 56.5,
-        "y": 49
+        "x": 53.5,
+        "y": 46.5
       },
       "questID": 1055
     },
@@ -2628,7 +2628,7 @@
       "type": "Do Quest",
       "coordinates": {
         "zoneID": 33,
-        "x": 41,
+        "x": 44,
         "y": 11
       },
       "questID": 190,
@@ -2711,8 +2711,8 @@
       "type": "Do Quest",
       "coordinates": {
         "zoneID": 33,
-        "x": 33,
-        "y": 12.5
+        "x": 31,
+        "y": 10
       },
       "questID": 185,
       "description": "Kill 10 [npc:681]"

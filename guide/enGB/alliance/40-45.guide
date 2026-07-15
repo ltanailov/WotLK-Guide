@@ -99,8 +99,8 @@
       "coordinates": {
         "zoneID": 15,
         "areaID": 512,
-        "x": 44,
-        "y": 16
+        "x": 47,
+        "y": 18.5
       },
       "questID": 11145,
       "description": "Loot 5 [item:33061] from [npc:23592], [npc:23714] and [npc:23593], then open 5 [object:186287]"
@@ -811,8 +811,8 @@
       "coordinates": {
         "zoneID": 15,
         "areaID": 510,
-        "x": 46,
-        "y": 74
+        "x": 42.8,
+        "y": 72.4
       },
       "questID": 11217,
       "description": "Collect 8 [item:33175] from [object:186463]"
@@ -1058,8 +1058,8 @@
       "coordinates": {
         "zoneID": 15,
         "areaID": 512,
-        "x": 44,
-        "y": 16
+        "x": 47,
+        "y": 18.5
       },
       "questID": 11144,
       "description": "Loot 4 [item:33050] from [npc:23714], then use [item:33050]"
@@ -1069,8 +1069,8 @@
       "coordinates": {
         "zoneID": 15,
         "areaID": 512,
-        "x": 44,
-        "y": 16
+        "x": 47,
+        "y": 18.5
       },
       "questID": 11148,
       "description": "Loot 7 [item:33071] from [object:186301]"

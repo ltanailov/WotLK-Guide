@@ -817,8 +817,8 @@
       "coordinates": {
         "zoneID": 148,
         "areaID": 2078,
-        "x": 36.5,
-        "y": 76.5
+        "x": 35,
+        "y": 80
       },
       "questID": 4740,
       "description": "Kill [npc:10323] (kill murlocs in the camp to lure him)"
@@ -850,8 +850,8 @@
       "coordinates": {
         "zoneID": 148,
         "areaID": 2077,
-        "x": 37.5,
-        "y": 82.5
+        "x": 35,
+        "y": 80
       },
       "questID": 1003,
       "description": "Loot 4 [item:5414] from [npc:2165]"
@@ -861,8 +861,8 @@
       "coordinates": {
         "zoneID": 148,
         "areaID": 2077,
-        "x": 37.5,
-        "y": 82.5
+        "x": 35,
+        "y": 80
       },
       "questID": 986,
       "description": "Loot 5 [item:5386] from [npc:2237] and [npc:2071]"
